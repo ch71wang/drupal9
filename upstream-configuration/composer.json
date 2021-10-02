@@ -17,6 +17,12 @@
         "zaporylie/composer-drupal-optimizations": "^1.2",
         "drupal/freelancer_zymphonies_theme": "^2.0",
         "drupal/bootstrap_layout_builder": "^2.0",
-        "drupal/layout_builder_blocks": "^1.0"
+        "drupal/layout_builder_blocks": "^1.0",
+        "drupal/ebt_timeline": "^1.0@alpha",
+        "drupal/ebt_core": "^1.0",
+        "drupal/fontawesome": "^2.19",
+        "drupal/fontawesome_menu_icons": "^1.9",
+        "drupal/calendar": "^1.0@alpha",
+        "drupal/tb_megamenu": "^1.5"
     }
 }
