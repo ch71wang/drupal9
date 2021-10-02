@@ -27,6 +27,8 @@
         "drupal/media_entity_instagram": "^3.0",
         "drupal/media_entity_twitter": "^2.7",
         "drupal/ebt_carousel": "^1.0",
-        "drupal/ebt_slideshow": "^1.0"
+        "drupal/ebt_slideshow": "^1.0",
+        "drupal/ebt_accordion": "^1.0",
+        "drupal/ebt_tabs": "^1.0"
     }
 }
