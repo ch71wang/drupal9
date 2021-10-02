@@ -23,6 +23,8 @@
         "drupal/fontawesome": "^2.19",
         "drupal/fontawesome_menu_icons": "^1.9",
         "drupal/calendar": "^1.0@alpha",
-        "drupal/tb_megamenu": "^1.5"
+        "drupal/tb_megamenu": "^1.5",
+        "drupal/media_entity_instagram": "^3.0",
+        "drupal/media_entity_twitter": "^2.7"
     }
 }
