@@ -29,6 +29,7 @@
         "drupal/ebt_carousel": "^1.0",
         "drupal/ebt_slideshow": "^1.0",
         "drupal/ebt_accordion": "^1.0",
-        "drupal/ebt_tabs": "^1.0"
+        "drupal/ebt_tabs": "^1.0",
+        "drupal/vartheme_bs4": "^9.0"
     }
 }
