@@ -33,6 +33,7 @@
         "drupal/vartheme_bs4": "^9.0",
         "drupal/bootstrap_paragraphs": "^2.0@beta",
         "drupal/lb_ux": "^1.0@beta",
-        "drupal/varbase_layout_builder": "^10.0"
+        "drupal/varbase_layout_builder": "^10.0",
+        "drupal/ctools": "^3.7"
     }
 }
